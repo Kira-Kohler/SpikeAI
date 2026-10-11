@@ -1,0 +1,24 @@
+Spike AI
+Created by Kira Kohler. Copyright (c) 2026 Kira Kohler.
+
+License
+
+Spike AI's original source code is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License, version 3 only (GPL-3.0-only). It is distributed WITHOUT ANY WARRANTY. The source code is available at https://github.com/Kira-Kohler/SpikeAI.
+
+The license covers Spike AI's own code and identity assets only. Agent illustrations, the Spike icon and all other VALORANT material belong to Riot Games, Inc. and are not licensed under the GPL. Open-source components keep their own licenses, listed under "Open-source licenses".
+
+Riot Games Disclaimer
+
+Spike AI is an independent third-party application and is not affiliated with, associated with, authorized by, endorsed by, or sponsored by Riot Games, Inc.
+
+VALORANT, Riot Games, and all related trademarks, characters, artwork, and assets are the property of Riot Games, Inc. and their respective owners.
+
+Spike AI is developed independently by Kira Kohler.
+
+Artwork
+
+Agent illustrations shown in Spike AI are the property of Riot Games, Inc. The official page and original image of each illustration are listed under "Agent artwork".
+
+Privacy
+
+Spike AI works offline. It reads the screen of the display that shows VALORANT only to recognize the Spike icon, and processes every frame in memory on this PC. Screen images are not saved, uploaded or shared. The Valorant Console page reads VALORANT's own log file on this PC. Settings, imported voices and the diagnostics log stay on this PC.
