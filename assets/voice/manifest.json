@@ -1,0 +1,52 @@
+{
+  "engine": "kokoro-onnx 0.6.1",
+  "model": "Kokoro v1.0",
+  "voice": "af_heart",
+  "voice_description": "American English female preset",
+  "license": "Apache-2.0 (model); MIT (generator)",
+  "model_source": "https://huggingface.co/hexgrad/Kokoro-82M",
+  "generator_source": "https://github.com/thewh1teagle/kokoro-onnx",
+  "model_files": {
+    "kokoro-v1.0.onnx": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "voices-v1.0.bin": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d"
+  },
+  "files": [
+    {
+      "file": "spike_planted.wav",
+      "text": "Starting timer.",
+      "sample_rate": 24000,
+      "duration_s": 0.88525,
+      "rms_dbfs": -19.99999987057016,
+      "peak_dbfs": -5.8671996278991685,
+      "sha256": "2f404d1b7c6de3e21d457cd8fd406563ca287eada633d404ec38cade04ab7f4a"
+    },
+    {
+      "file": "20_seconds.wav",
+      "text": "Twenty seconds left.",
+      "sample_rate": 24000,
+      "duration_s": 1.23675,
+      "rms_dbfs": -20.000000517719382,
+      "peak_dbfs": -5.078952576316239,
+      "sha256": "3eb26433abb058636541cf88242da4b480723423aa10976bf6cf5797aa40bb90"
+    },
+    {
+      "file": "10_seconds.wav",
+      "text": "Ten seconds left.",
+      "sample_rate": 24000,
+      "duration_s": 1.1111666666666666,
+      "rms_dbfs": -19.99999987057016,
+      "peak_dbfs": -7.271418712332221,
+      "sha256": "13f251c4563e82e526e8f1c3463662b0cc403483d8a002065ce82e87dc3a25e6"
+    },
+    {
+      "file": "5_seconds.wav",
+      "text": "Five seconds left.",
+      "sample_rate": 24000,
+      "duration_s": 1.2015416666666667,
+      "rms_dbfs": -19.99999987057016,
+      "peak_dbfs": -3.805613546704179,
+      "sha256": "4360e1871b601c6bde82fc3084eb04aed212c46fa59a342f6879704286028d01"
+    }
+  ],
+  "human_listening_review": "not_observed"
+}

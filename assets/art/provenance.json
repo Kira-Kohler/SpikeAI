@@ -1,0 +1,470 @@
+{
+  "retrieved": "2026-10-09",
+  "index": "https://playvalorant.com/en-us/agents/",
+  "files": [
+    {
+      "agent": "astra",
+      "file": "astra.jpg",
+      "page": "https://playvalorant.com/en-us/agents/astra/",
+      "source": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c46c9b84f2cc977e984fe23ec3757470ac01a271-5120x1772.png",
+      "copyright": "Riot Games, Inc.",
+      "original_dimensions": [
+        5120,
+        1772
+      ],
+      "local_dimensions": [
+        1536,
+        531
+      ],
+      "sha256": "e8896a3967b924797cff4452beb8b443120e9bdedb946a49b1aa3c95a42b5d32"
+    },
+    {
+      "agent": "breach",
+      "file": "breach.jpg",
+      "page": "https://playvalorant.com/en-us/agents/breach/",
+      "source": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/39d339b3de35f47fb0bc4bb295a9dc4aa07eeb55-5120x1772.png",
+      "copyright": "Riot Games, Inc.",
+      "original_dimensions": [
+        5120,
+        1772
+      ],
+      "local_dimensions": [
+        1536,
+        531
+      ],
+      "sha256": "8df4d819a1a05c3da5ae08d8d29f8a33cb4cc35690b99266ff84c89efcd72e66"
+    },
+    {
+      "agent": "brimstone",
+      "file": "brimstone.jpg",
+      "page": "https://playvalorant.com/en-us/agents/brimstone/",
+      "source": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data/28db4af74acd1d78ddba82ed127a99731261b9c8-5120x1772.png",
+      "copyright": "Riot Games, Inc.",
+      "original_dimensions": [
+        5120,
+        1772
+      ],
+      "local_dimensions": [
+        1536,
+        531
+      ],
+      "sha256": "8bc21a76e7b00ba7126027726ea65897d90b5a3fd7f7a7d0865e3715e0b4b904"
+    },
+    {
+      "agent": "chamber",
+      "file": "chamber.jpg",
+      "page": "https://playvalorant.com/en-us/agents/chamber/",
+      "source": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e0411bbb14b69f7ce3d18b56fcf33649fdcc6a4b-5120x1772.png",
+      "copyright": "Riot Games, Inc.",
+      "original_dimensions": [
+        5120,
+        1772
+      ],
+      "local_dimensions": [
+        1536,
+        531
+      ],
+      "sha256": "9a6abb9a6aed8af32904aba4c52a0358d99993553e1b9edd92572f43f5fcb356"
+    },
+    {
+      "agent": "clove",
+      "file": "clove.jpg",
+      "page": "https://playvalorant.com/en-us/agents/clove/",
+      "source": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data/9b7acd6a5e06ac50039e4c8ec4e0c30e8dba7f5c-5120x1772.png",
+      "copyright": "Riot Games, Inc.",
+      "original_dimensions": [
+        5120,
+        1772
+      ],
+      "local_dimensions": [
+        1536,
+        531
+      ],
+      "sha256": "90e7396364fe0789ca36e8ecbda4dc4a46fe14077737a84610a69c30ce0fa5e0"
+    },
+    {
+      "agent": "cypher",
+      "file": "cypher.jpg",
+      "page": "https://playvalorant.com/en-us/agents/cypher/",
+      "source": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data/c5fc45f615ff1f0ca2ea71a69510316639c49ad7-5120x1772.png",
+      "copyright": "Riot Games, Inc.",
+      "original_dimensions": [
+        5120,
+        1772
+      ],
+      "local_dimensions": [
+        1536,
+        531
+      ],
+      "sha256": "e56b3a42a426e3410c2c814bfa7c58b58fb64a557bc976504b97718dbe1e7d8a"
+    },
+    {
+      "agent": "deadlock",
+      "file": "deadlock.jpg",
+      "page": "https://playvalorant.com/en-us/agents/deadlock/",
+      "source": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data/806fdea778ca34a6afe8ec5d7a074e36a09b0036-5120x1772.png",
+      "copyright": "Riot Games, Inc.",
+      "original_dimensions": [
+        5120,
+        1772
+      ],
+      "local_dimensions": [
+        1536,
+        531
+      ],
+      "sha256": "603225531a5b0df5983e39d25328c7729830d767fa7ef6342c9218d5a7423d8c"
+    },
+    {
+      "agent": "fade",
+      "file": "fade.jpg",
+      "page": "https://playvalorant.com/en-us/agents/fade/",
+      "source": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data/ded0162c660c1b1f5f1667d040c80bb4140f6c4c-5120x1772.png",
+      "copyright": "Riot Games, Inc.",
+      "original_dimensions": [
+        5120,
+        1772
+      ],
+      "local_dimensions": [
+        1536,
+        531
+      ],
+      "sha256": "029ab2eb304e2339bb7e24dfcf8b27dc0a0ec1a29b382ae09874e40d03f91bf3"
+    },
+    {
+      "agent": "gekko",
+      "file": "gekko.jpg",
+      "page": "https://playvalorant.com/en-us/agents/gekko/",
+      "source": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data/eaea442872157b1108ae8a5483de2d9fd3de40ad-5120x1772.png",
+      "copyright": "Riot Games, Inc.",
+      "original_dimensions": [
+        5120,
+        1772
+      ],
+      "local_dimensions": [
+        1536,
+        531
+      ],
+      "sha256": "8f90076ba5db43a27cfae035cc9dbb8dfdc5ec6d7393513a06f86c4079202c70"
+    },
+    {
+      "agent": "harbor",
+      "file": "harbor.jpg",
+      "page": "https://playvalorant.com/en-us/agents/harbor/",
+      "source": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data/a5f673b653fc9f09f01f1be6f5c669e5af42e958-5120x1772.png",
+      "copyright": "Riot Games, Inc.",
+      "original_dimensions": [
+        5120,
+        1772
+      ],
+      "local_dimensions": [
+        1536,
+        531
+      ],
+      "sha256": "fcf1a9292c4caa92593bd0a5ef65307bd25a69cc6631cbbef1017c3db5c26fab"
+    },
+    {
+      "agent": "iso",
+      "file": "iso.jpg",
+      "page": "https://playvalorant.com/en-us/agents/iso/",
+      "source": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data/95a070badaa024eead9138d3e9255d8bcb155caa-5120x1772.png",
+      "copyright": "Riot Games, Inc.",
+      "original_dimensions": [
+        5120,
+        1772
+      ],
+      "local_dimensions": [
+        1536,
+        531
+      ],
+      "sha256": "e5263b6c3ca9f53b0df3e7a7ded055f7c2396e6c704d7ccd9dd7bcb1f093f5ba"
+    },
+    {
+      "agent": "jett",
+      "file": "jett.jpg",
+      "page": "https://playvalorant.com/en-us/agents/jett/",
+      "source": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data/74075835ddc4e8457fb30f7fe560d2aff6d51702-5120x1772.png",
+      "copyright": "Riot Games, Inc.",
+      "original_dimensions": [
+        5120,
+        1772
+      ],
+      "local_dimensions": [
+        1536,
+        531
+      ],
+      "sha256": "e6c579cdd135162378a7204d6a1a8d3e62a39517fc4b10c4c1def00e93e47eed"
+    },
+    {
+      "agent": "kay-o",
+      "file": "kay-o.jpg",
+      "page": "https://playvalorant.com/en-us/agents/kay-o/",
+      "source": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data/41354c181dc03318b79c77c5b99fee141e53cd20-5120x1772.png",
+      "copyright": "Riot Games, Inc.",
+      "original_dimensions": [
+        5120,
+        1772
+      ],
+      "local_dimensions": [
+        1536,
+        531
+      ],
+      "sha256": "862d2c7f1e96ba8b49cb98899f1e109d3a6dec154df5fad8c2d31149744b25e3"
+    },
+    {
+      "agent": "killjoy",
+      "file": "killjoy.jpg",
+      "page": "https://playvalorant.com/en-us/agents/killjoy/",
+      "source": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data/d1a10ef502d13649e803119b02b7c9917bfc860c-5120x1772.png",
+      "copyright": "Riot Games, Inc.",
+      "original_dimensions": [
+        5120,
+        1772
+      ],
+      "local_dimensions": [
+        1536,
+        531
+      ],
+      "sha256": "044d0e1a0fdbad3400f3e4a311d276889f81e254175c0b5d484c2f7bf8d25d62"
+    },
+    {
+      "agent": "miks",
+      "file": "miks.jpg",
+      "page": "https://playvalorant.com/en-us/agents/miks/",
+      "source": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d72334e00e79a7231635f1ae4c99f3e14b580e73-2048x852.png",
+      "copyright": "Riot Games, Inc.",
+      "original_dimensions": [
+        2048,
+        852
+      ],
+      "local_dimensions": [
+        1536,
+        639
+      ],
+      "sha256": "731b6b231a80e24cc1d5c518d2780980f1f132f4a21d82c3f7c28dd2f3a40dc8"
+    },
+    {
+      "agent": "neon",
+      "file": "neon.jpg",
+      "page": "https://playvalorant.com/en-us/agents/neon/",
+      "source": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data/911b0e61672512310b4f280a7ee65950544fee2a-5120x1772.png",
+      "copyright": "Riot Games, Inc.",
+      "original_dimensions": [
+        5120,
+        1772
+      ],
+      "local_dimensions": [
+        1536,
+        531
+      ],
+      "sha256": "f221485e59ae0740197afeb003d04928d2dcc5a2cc5f585cd4ca31b95d0e65eb"
+    },
+    {
+      "agent": "omen",
+      "file": "omen.jpg",
+      "page": "https://playvalorant.com/en-us/agents/omen/",
+      "source": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data/dc30d112789cbf1ccd04bcce306b6059d7bca132-5120x1772.png",
+      "copyright": "Riot Games, Inc.",
+      "original_dimensions": [
+        5120,
+        1772
+      ],
+      "local_dimensions": [
+        1536,
+        531
+      ],
+      "sha256": "2cec40ceb6ed9bcd6e95b810471e82619a12bdcd76cddbcefc96d066d3327626"
+    },
+    {
+      "agent": "phoenix",
+      "file": "phoenix.jpg",
+      "page": "https://playvalorant.com/en-us/agents/phoenix/",
+      "source": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data/ecdb26df5c69c4a1adcae5cf5ec31e7b0e252e66-5120x1772.png",
+      "copyright": "Riot Games, Inc.",
+      "original_dimensions": [
+        5120,
+        1772
+      ],
+      "local_dimensions": [
+        1536,
+        531
+      ],
+      "sha256": "cb5f1b3de89a39da58f031a1d76c931c7dff98fb8d89d7e57a50e647a2e4e022"
+    },
+    {
+      "agent": "raze",
+      "file": "raze.jpg",
+      "page": "https://playvalorant.com/en-us/agents/raze/",
+      "source": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data/b4f9209f59915785278b06ff6a065f83cd4af8cc-5120x1772.png",
+      "copyright": "Riot Games, Inc.",
+      "original_dimensions": [
+        5120,
+        1772
+      ],
+      "local_dimensions": [
+        1536,
+        531
+      ],
+      "sha256": "acbad91119f4c097508b3c60eee70db3df5ffac6b85758061ff5ad7b4afe7565"
+    },
+    {
+      "agent": "reyna",
+      "file": "reyna.jpg",
+      "page": "https://playvalorant.com/en-us/agents/reyna/",
+      "source": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data/285726b9f66a2ab65a4f7f51f2acb8c6a33ec915-5120x1772.png",
+      "copyright": "Riot Games, Inc.",
+      "original_dimensions": [
+        5120,
+        1772
+      ],
+      "local_dimensions": [
+        1536,
+        531
+      ],
+      "sha256": "61ac9c61393c32a11e184f54e45baf5d293ddf9c39008311c846a7d3bd450c9d"
+    },
+    {
+      "agent": "sage",
+      "file": "sage.jpg",
+      "page": "https://playvalorant.com/en-us/agents/sage/",
+      "source": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data/ded53d6f127a00074675eb79fde95437f2c2f521-5120x1772.png",
+      "copyright": "Riot Games, Inc.",
+      "original_dimensions": [
+        5120,
+        1772
+      ],
+      "local_dimensions": [
+        1536,
+        531
+      ],
+      "sha256": "acc4deb5537915e20eb1a4f8ff494a43e9c54209adf562c8f3bcbf9e20dd0e96"
+    },
+    {
+      "agent": "skye",
+      "file": "skye.jpg",
+      "page": "https://playvalorant.com/en-us/agents/skye/",
+      "source": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data/c73f832e9448cec260412368f8992420b8224819-5120x1772.png",
+      "copyright": "Riot Games, Inc.",
+      "original_dimensions": [
+        5120,
+        1772
+      ],
+      "local_dimensions": [
+        1536,
+        531
+      ],
+      "sha256": "482e7dcc4ca3b759208141f7a591c759395f68da93a8d7e4786a43854bc45c73"
+    },
+    {
+      "agent": "sova",
+      "file": "sova.jpg",
+      "page": "https://playvalorant.com/en-us/agents/sova/",
+      "source": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data/14331d268e545efd4f74c443e9a855f85c779aa4-5120x1772.png",
+      "copyright": "Riot Games, Inc.",
+      "original_dimensions": [
+        5120,
+        1772
+      ],
+      "local_dimensions": [
+        1536,
+        531
+      ],
+      "sha256": "c83bae9c4e97cf37a5402d1f31f3a84acfdb7cbceffd8daecd639b5dd1a6aa45"
+    },
+    {
+      "agent": "tejo",
+      "file": "tejo.jpg",
+      "page": "https://playvalorant.com/en-us/agents/tejo/",
+      "source": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/9d3724800f451f0d2f5e83277aa567b388c941e1-5120x1772.png",
+      "copyright": "Riot Games, Inc.",
+      "original_dimensions": [
+        5120,
+        1772
+      ],
+      "local_dimensions": [
+        1536,
+        531
+      ],
+      "sha256": "3b5cf3c0bd87452414dcb979d37ce8b2b3bcf154ab0643e7b25bc517467a01d3"
+    },
+    {
+      "agent": "veto",
+      "file": "veto.jpg",
+      "page": "https://playvalorant.com/en-us/agents/veto/",
+      "source": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f1a49f1ba67e2ec108b372810aa1f2135216836f-5120x1772.png",
+      "copyright": "Riot Games, Inc.",
+      "original_dimensions": [
+        5120,
+        1772
+      ],
+      "local_dimensions": [
+        1536,
+        531
+      ],
+      "sha256": "f1da6feffd2e63b13575aa0a2debbb37a7bd9fcdff38a300e629c5cf213762b3"
+    },
+    {
+      "agent": "viper",
+      "file": "viper.jpg",
+      "page": "https://playvalorant.com/en-us/agents/viper/",
+      "source": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data/9f3940cdddc20db52bade0f791763ca959dcebc6-5120x1772.png",
+      "copyright": "Riot Games, Inc.",
+      "original_dimensions": [
+        5120,
+        1772
+      ],
+      "local_dimensions": [
+        1536,
+        531
+      ],
+      "sha256": "49d539369d565a66564c087aa2633331eb6746a85d4feac87152cf1d23664b9b"
+    },
+    {
+      "agent": "vyse",
+      "file": "vyse.jpg",
+      "page": "https://playvalorant.com/en-us/agents/vyse/",
+      "source": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data/baa1f0d6255d92329812f6a689193536b4093db4-5120x1772.png",
+      "copyright": "Riot Games, Inc.",
+      "original_dimensions": [
+        5120,
+        1772
+      ],
+      "local_dimensions": [
+        1536,
+        531
+      ],
+      "sha256": "848783623338b1f35d4b2b4fa41a735abae1755561c48c44282c20a14c87880e"
+    },
+    {
+      "agent": "waylay",
+      "file": "waylay.jpg",
+      "page": "https://playvalorant.com/en-us/agents/waylay/",
+      "source": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/302cbe09faf2d4ae4221315a065f015984635d85-5120x1772.png",
+      "copyright": "Riot Games, Inc.",
+      "original_dimensions": [
+        5120,
+        1772
+      ],
+      "local_dimensions": [
+        1536,
+        531
+      ],
+      "sha256": "0cf2eff5c3f4bffc8bb6d72b8c52bf89ea17e1867a0b04c562c8efa4608c5a6b"
+    },
+    {
+      "agent": "yoru",
+      "file": "yoru.jpg",
+      "page": "https://playvalorant.com/en-us/agents/yoru/",
+      "source": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data/0336d9a53f3d051ca731d578b74f93b118854471-5120x1772.png",
+      "copyright": "Riot Games, Inc.",
+      "original_dimensions": [
+        5120,
+        1772
+      ],
+      "local_dimensions": [
+        1536,
+        531
+      ],
+      "sha256": "8b0d8c54e1e621724138017cf6921ec4d3da7046f4d81de045bf05d404d04f6d"
+    }
+  ]
+}

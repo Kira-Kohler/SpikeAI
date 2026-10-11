@@ -1,0 +1,168 @@
+{
+  "generated": "2026-10-09T10:47:02",
+  "opencv": "5.0.0",
+  "hud_fill_per_height": 0.0583,
+  "references": {
+    "Spike1280x1024.png": {
+      "sha256": "83316530ec5cd5971f5b2373bb10633814a2c015573b30d25a9e6d803b125f8e",
+      "size": [
+        73,
+        69
+      ],
+      "alpha": "original",
+      "fill_bbox": [
+        4,
+        4,
+        65,
+        60
+      ],
+      "weight": 0.9365,
+      "category": {
+        "red_intensity": "intenso",
+        "edges": "nítidos",
+        "background": "transparente",
+        "light_outline": "presente",
+        "size_class": "relleno 60 px de alto",
+        "aspect": 1.083
+      },
+      "identical_in_zip": "images/Spike1280x1024.png"
+    },
+    "Spike1280x960.png": {
+      "sha256": "c5a6ab7eb034aa6ecc839c6f02f76a2412f93f6567aa239c71ef960543a62769",
+      "size": [
+        71,
+        67
+      ],
+      "alpha": "segmentado",
+      "fill_bbox": [
+        5,
+        6,
+        61,
+        56
+      ],
+      "weight": 0.7294,
+      "category": {
+        "red_intensity": "medio",
+        "edges": "nítidos",
+        "background": "opaco-segmentado",
+        "light_outline": "presente",
+        "size_class": "relleno 56 px de alto",
+        "aspect": 1.089
+      },
+      "identical_in_zip": "images/Spike1280x960.png"
+    },
+    "Spike1440x1080.png": {
+      "sha256": "8ce50daec089463c914ecd4febbe887910b8b84df7dabf36fc4acd6192adac04",
+      "size": [
+        79,
+        75
+      ],
+      "alpha": "original",
+      "fill_bbox": [
+        5,
+        6,
+        68,
+        63
+      ],
+      "weight": 0.9674,
+      "category": {
+        "red_intensity": "medio",
+        "edges": "nítidos",
+        "background": "transparente",
+        "light_outline": "presente",
+        "size_class": "relleno 63 px de alto",
+        "aspect": 1.079
+      },
+      "identical_in_zip": "images/Spike1440x1080.png"
+    },
+    "Spike1920x1080.png": {
+      "sha256": "4e29bf2c102128cb6c5159dd00290f77626aae240ff759ec9baf09e81b1ae95e",
+      "size": [
+        80,
+        75
+      ],
+      "alpha": "original",
+      "fill_bbox": [
+        6,
+        6,
+        68,
+        63
+      ],
+      "weight": 1.4492,
+      "category": {
+        "red_intensity": "medio",
+        "edges": "nítidos",
+        "background": "transparente",
+        "light_outline": "presente",
+        "size_class": "relleno 63 px de alto",
+        "aspect": 1.079
+      },
+      "identical_in_zip": null
+    },
+    "Spike1920x1080_2.png": {
+      "sha256": "80ddc1e059c9b278ea6b90fe492756629262a3a6f3dc9057cf3da8a1fbeb381e",
+      "size": [
+        81,
+        75
+      ],
+      "alpha": "original",
+      "fill_bbox": [
+        7,
+        6,
+        66,
+        63
+      ],
+      "weight": 1.4426,
+      "category": {
+        "red_intensity": "oscuro",
+        "edges": "nítidos",
+        "background": "transparente",
+        "light_outline": "presente",
+        "size_class": "relleno 63 px de alto",
+        "aspect": 1.048
+      },
+      "identical_in_zip": "images/Spike1920x1080.png"
+    },
+    "Spike2560x1440.png": {
+      "sha256": "7bc8b2c28df7ee078016e14ccd5efd9726c06815aa842c1241921cd4b5fb9d01",
+      "size": [
+        107,
+        100
+      ],
+      "alpha": "original",
+      "fill_bbox": [
+        8,
+        8,
+        91,
+        84
+      ],
+      "weight": 0.9711,
+      "category": {
+        "red_intensity": "oscuro",
+        "edges": "suaves",
+        "background": "transparente",
+        "light_outline": "presente",
+        "size_class": "relleno 84 px de alto",
+        "aspect": 1.083
+      },
+      "identical_in_zip": "images/Spike2560x1440.png"
+    }
+  },
+  "canonical": {
+    "fill_h": 63,
+    "fill_w": 67,
+    "pad": 6,
+    "size": [
+      79,
+      75
+    ],
+    "weights": {
+      "Spike1280x1024.png": 0.9365,
+      "Spike1280x960.png": 0.7294,
+      "Spike1440x1080.png": 0.9674,
+      "Spike1920x1080.png": 1.4492,
+      "Spike1920x1080_2.png": 1.4426,
+      "Spike2560x1440.png": 0.9711
+    }
+  }
+}
