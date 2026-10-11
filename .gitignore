@@ -1,0 +1,105 @@
+# Python bytecode and tool caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Editor state and local history
+.history/
+.vscode/
+.idea/
+*.code-workspace
+
+# PyInstaller output
+build/
+dist/
+
+# Packaged releases are distributed through Microsoft Store only
+deliverables/
+*.msix
+*.msixbundle
+*.msixupload
+*.appx
+*.appxbundle
+*.appxupload
+*.zip
+*.7z
+*.rar
+
+# Promotional media, recordings and video projects stay off GitHub
+SpikeAI_Cinematic_Edit/
+assets/MicrosoftStore_Screenshots/
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.avi
+*.mp3
+*.flac
+*.m4a
+*.aac
+*.ogg
+
+# Training data and generation models
+dataset_entrenamiento/
+development/models/
+*.onnx
+
+# Private development, testing and Store packaging (kept locally, never published)
+development/
+tests/
+packaging/
+requirements-dev.txt
+pytest.ini
+ruff.toml
+assets/templates/presence_provenance.json
+assets/logo/spike-ai.png
+
+# License texts for components that are not distributed, and duplicate copies
+licenses/Kokoro-*
+licenses/kokoro-*
+licenses/keyboard-*
+licenses/Python-tcl_tk8.6_license.terms
+licenses/PySide6_Essentials-LicenseRef-Qt-Commercial.txt
+licenses/shiboken6-LicenseRef-Qt-Commercial.txt
+licenses/opencv-python-opencv_python-5.0.0.93.dist-info_LICENSE.txt
+licenses/opencv-python-opencv_python-5.0.0.93.dist-info_LICENSE-3RD-PARTY.txt
+licenses/numpy-numpy_ma_LICENSE
+licenses/numpy-numpy_random_LICENSE.md
+licenses/numpy-numpy__core_include_numpy_random_LICENSE.txt
+
+# Logs and local runtime data
+*.log
+*.log.*
+SpikeAI3/
+
+# Secrets, signing keys and certificates
+.env
+.env.*
+*.pfx
+*.p12
+*.pem
+*.key
+*.cer
+*.crt
+*.snk
+*.spc
+*.pvk
+
+# Temporary and operating system files
+*.tmp
+*.bak
+*.orig
+~$*
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
