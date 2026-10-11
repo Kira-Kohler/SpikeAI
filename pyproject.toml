@@ -1,0 +1,13 @@
+[project]
+name = "spikeai"
+version = "3.0.1"
+description = "Visual Spike timer and alerts for VALORANT on Windows"
+readme = "README.md"
+license = "GPL-3.0-only"
+license-files = ["LICENSE"]
+authors = [{ name = "Kira Kohler" }]
+requires-python = ">=3.11,<3.12"
+
+[project.urls]
+Homepage = "https://github.com/Kira-Kohler/SpikeAI"
+"Microsoft Store" = "https://apps.microsoft.com/detail/9p00fj06d2fc"
